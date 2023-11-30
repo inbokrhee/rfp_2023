@@ -1,0 +1,45 @@
+---
+title: "Welcome to RFP 2023 Final Projects"
+---
+
+<!-- ## Welcome to RFP 2023 Final Projects -->
+
+Welcome to *R Fundamentals for Public Policy*, or **RFP 2023**. In this course, we introduced students to the programming language of R, and surveyed some basic skills needed to process data in order to facilitate better public policy research.
+
+As in any year, this year's cohort faced various challenges - many rescheduled classes due to holidays and instructor's overseas trips, technical issues, etc. Actively accpeting the new advances of AI-asssited coding also presented some new learning curve. However, together, they have overcome the pain and suffering associated with learning a new language, and all came out in one piece at the end of the tunnel. Many have gone from having no coding or programming background, to being able to take baby steps in producing their own analysis. 
+
+For their final projects, the students were asked to choose a policy area of their interest, and create an interactive web dashboard using [Shiny](https://shiny.posit.co/) - an R package that can be used to build interactive web apps straight from R. This involved brainstorming research questions, identifying data sources, cleaning, manipulating, and transforming data, creating effective visualization, and putting everything together in an interactive format. The goal of this final project was ***not*** to produce a perfect analysis or provide any causal inference, but to demonstrate the students' ability to apply the skills they have learned in the course to a real-world policy problem through effective and interesting data visualization.
+
+***So, with all of that said, I am extremely delighted and proud to present the final course projects by our students below. Each project is organized by first its main dashboard, and then the accompanying HTML appendix, where relevant.*** 
+
+#### Note
+1. The dashboard and appendix opens in new window/tab.
+2. Depending on the projects, page loading might take a little while.
+3. The projects and the team members are listed in alphabetical order.
+
+### Fall 2023
+
+- Alfi, Rashid, and Youngchul 
+  - [Dashboard](https://syifa.shinyapps.io/alfiyoungrashid_project/){:target="_blank"}
+- Andres, Dong Hun, and Kokhoung
+  - [Dashboard](https://donghun7.shinyapps.io/2023_R_FALL_TEAM_ADH/){:target="_blank"}
+- Clement, Eunyoung, and Seungmee
+  - [Dashboard](https://keep515going.shinyapps.io/elderly_suicide/),{:target="_blank"} [Appendix](https://idlee.shinyapps.io/appendix/){:target="_blank"}
+- Cheonwoo, Emmanuel, and Janeth
+  - [Dashboard](https://ronistesting.shinyapps.io/emissions_damage/){:target="_blank"}
+- Hyejeong
+  - [Dashboard](https://donghun7.shinyapps.io/2023_R_FALL_TEAM_ADH/){:target="_blank"}
+- Hye Sun, Mabintu, and Soomin
+  - [Dashboard](https://soominlim.shinyapps.io/Perception/){:target="_blank"}
+- Hyobin, Hyunju, and Syifa
+  - [Dashboard](https://syifa.shinyapps.io/myshiny/){:target="_blank"}
+- Julis, Lovely, Riel, and Sumin
+  - [Dashboard](https://lrawesome.shinyapps.io/dummy/){:target="_blank"}
+- Menghuo, Michael, and Sheyla
+  - [Dashboard](https://1tq3m7-sheyla-prado.shinyapps.io/dashboard/){:target="_blank"}
+- Mohammed and Ntandoyenkosi
+  - [Dashboard](https://ntax.shinyapps.io/R_Project_Ntando_Kamara/){:target="_blank"}
+- Sangmin, Taehyun, and Wilson
+  - [Dashboard](https://premieom.shinyapps.io/shinyapp/){:target="_blank"}
+
+

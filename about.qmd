@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This website showcases the final projects from students enrolled in the R Fundamentals for Public Policy Course in Fall 2023 at the KDI School of Public Policy and Management.
