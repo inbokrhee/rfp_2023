@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "R Fundamentals for Public Policy 2023"
+  title: "R Fundamentals for Public Policy, Fall 2023"
   navbar:
     left:
       - href: index.qmd
